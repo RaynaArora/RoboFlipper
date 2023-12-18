@@ -1,5 +1,5 @@
 # RoboFlipper
-##Python code that uses Pydrake for a robotic Kuka iiwa arm to perceive, pick up, and flip an object so it lands upright.
+Python code that uses Pydrake for a robotic Kuka iiwa arm to perceive, pick up, and flip an object so it lands upright.
 
 Here we present notebooks that set up a simulation environment for the robot to flip both a can and a box from the YCB dataset.
 
