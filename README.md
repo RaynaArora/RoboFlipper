@@ -10,4 +10,4 @@ throw_can_static.ipynb contains code for the robot to flip a can when the can is
 The other files help to set up the simulation environment with the table on which the object is flipped and the object to be flipped.
 For a more detailed explanation on the techniques used along with the calculations to flip the object, read our paper: RoboFlipper.pdf.
 
-We also include videos of the robot successfully flipping the box and can.
+We also include videos of the robot successfully flipping the box with and without perception.
