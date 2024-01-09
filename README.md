@@ -3,7 +3,7 @@ This was the final project for MIT's Robotic Manipulation class (6.4212) by Aaru
 
 Here we present Python notebooks that use Pydrake to make a robotic Kuka iiwa arm to perceive, pick up, and flip an object so it lands upright. It is demonstrated in the simulation environment. We achieve this on a box and a can from the YCB dataset.
 
-[perception + throw.ipynb]("perception + throw.ipynb") contains code for the robot to perceive and flip the box.
+[perception+throw.ipynb](perception+throw.ipynb) contains code for the robot to perceive and flip the box.
 [throw_box_static.ipynb](throw_box_static.ipynb) contains code for the robot to flip a box when the box is initialized in a fixed location.
 [throw_can_static.ipynb](throw_can_static.ipynb) contains code for the robot to flip a can when the can is initialized in a fixed location.
 
