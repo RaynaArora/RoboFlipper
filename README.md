@@ -1,5 +1,5 @@
 # RoboFlipper
-This was the final project for MIT's Robotic Manipulation class (6.4212) by Aarush Gupta and Rayna Arora.
+This was the final project for MIT's graduate-level course Robotic Manipulation class (6.4212) by Aarush Gupta and Rayna Arora.
 
 Here we present Python notebooks that use Pydrake to make a robotic Kuka iiwa arm to perceive, pick up, and flip an object so it lands upright. It is demonstrated in the simulation environment. We achieve this on a box and a can from the YCB dataset.
 
